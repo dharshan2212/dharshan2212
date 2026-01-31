@@ -21,5 +21,5 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cloud" />
 </p>
